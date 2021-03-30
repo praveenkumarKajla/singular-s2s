@@ -1,6 +1,6 @@
 {
   "name": "singular-s2s",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Server side events for singular",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
     "postversion": "git push && git push --tags"
   },
   "author": "praveen kumar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenkumarKajla/singular-s2s"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^26.0.22",
